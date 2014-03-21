@@ -1,10 +1,13 @@
 *.sdf
 *.sln
 *.suo
-*.vcproj
+*.vcxproj
 *.filters
 *.user
 *.odp
+*.jpg
+*.png
+CLGL/*.txt
 Debug/
 Dissertation/
 Project Report/
