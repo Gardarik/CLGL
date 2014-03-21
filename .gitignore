@@ -1,0 +1,13 @@
+*.sdf
+*.sln
+*.suo
+*.vcproj
+*.filters
+*.user
+*.odp
+Debug/
+Dissertation/
+Project Report/
+glsdk/
+ipch/
+Screencaps/
